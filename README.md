@@ -14,6 +14,8 @@ It is an Ruby language entertainment application developed to complete the the 2
 ruby magic_ball_mystic.rb
 ```
 
+![alt text](https://media.giphy.com/media/IBvWNRMu32Wdj53nol/giphy.gif)
+
 You have to have `ruby` installed on your machine.
 To add some new greetings or answers please add it to /data/%filename%.txt files via adding a new lines.
 
